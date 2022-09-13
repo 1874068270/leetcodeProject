@@ -31,8 +31,12 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/testJava.java" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="88" />
+          <option name="caretOffset" value="111" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/ceshi.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/twoNumSum.java" />
         </OpenedFileInfo>
       </list>
     </option>
