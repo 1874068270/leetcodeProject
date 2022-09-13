@@ -27,8 +27,12 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/vcs.xml" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="125" />
+          <option name="caretOffset" value="349" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/testJava.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="88" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/ceshi.java" />
         </OpenedFileInfo>
       </list>
     </option>
