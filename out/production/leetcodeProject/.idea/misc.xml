@@ -8,10 +8,6 @@
       <list>
         <OpenedFileInfo>
           <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/.gitignore" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/leetcodeProject.iml" />
         </OpenedFileInfo>
         <OpenedFileInfo>
@@ -27,8 +23,28 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/vcs.xml" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="125" />
+          <option name="caretOffset" value="144" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/testJava.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="108" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/ceshi.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="426" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/twoNumSum.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="23" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/ListNode.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="169" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/liangshuxiangjia.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="151" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/zhongweishu.java" />
         </OpenedFileInfo>
       </list>
     </option>

@@ -3,6 +3,8 @@ public class liangshuxiangjia {
         System.out.println("niubiya111111122222");
         ListNode root = new ListNode(0);
         //ListNode test(0);
+        System.out.println("ceshi");
+
 
 
         System.out.println(root.val);
